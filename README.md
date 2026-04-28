@@ -9,6 +9,6 @@ Este programa gestiona la entrada de datos individuales para construir una ident
 
 ## Ejemplo de Ejecución
 1. **Entrada Nombre**: "Eder"
-2. **Entrada Apellido**: "Valladares"
-3. **Proceso**: `Eder` + ` ` + `Valladares`
-4. **Resultado**: "Bienvenido Eder Valladares"
+2. **Entrada Apellido**: "Hoppe"
+3. **Proceso**: `Eder` + ` ` + `Hoppe`
+4. **Resultado**: "Bienvenido Eder Hoppe"
