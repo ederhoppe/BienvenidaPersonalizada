@@ -7,8 +7,3 @@ Este programa gestiona la entrada de datos individuales para construir una ident
 * **Manejo de Variables**: Almacenamiento y reutilización de datos para optimizar el flujo del programa.
 * **Salida de Datos**: Presentación de resultados mediante la función `print()`.
 
-## Ejemplo de Ejecución
-1. **Entrada Nombre**: "Eder"
-2. **Entrada Apellido**: "Hoppe"
-3. **Proceso**: `Eder` + ` ` + `Hoppe`
-4. **Resultado**: "Bienvenido Eder Hoppe"
